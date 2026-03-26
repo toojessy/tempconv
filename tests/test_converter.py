@@ -1,5 +1,5 @@
 import pytest
-from src.converter import (
+from converter import (
     celsius_to_fahrenheit,
     fahrenheit_to_celsius,
     celsius_to_kelvin,
